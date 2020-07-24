@@ -1,6 +1,9 @@
 
-### Hi 👋
-I am Pranav, third year Computer Science Engineering Student
+### Hi Everyone 👋
+
+I am a Junior Year Computer Science Engineering from Thapar Institute of Engineering Technology, Patiala, Punjab. I am a highly motivated student with goal-driven work ethics. I have a strong curiosity for Data Science and Artificial Intelligence. I am learning the tools and keep upgrading my skills required to excel in this vast research-oriented field. I too have a keen interest in Object Oriented Programming and knowledge of Data structure and Algorithm along with the Analytical and Problem-solving skills.
+
+### Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranavanand24/)
 
