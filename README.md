@@ -12,6 +12,6 @@ I am a Junior Year Computer Science Engineering from Thapar Institute of Enginee
 - 🌱 I’m currently learning State of the Art AI models
 - 🤝 I’m looking to collaborate on data science and artifical intelligence projects. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&show_icons=true&theme=radical)
 
