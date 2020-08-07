@@ -14,5 +14,4 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/pranavanand24)
 
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&theme=dark&layout=compact)
