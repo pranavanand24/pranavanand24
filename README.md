@@ -19,4 +19,4 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=R&logoColor=white" />   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat-square&logo=Go&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Tensorflow-%23FF6FOO.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white" />  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=Linux&logoColor=white" />
 
-[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24)](https://github.com/pranavanand24/github-readme-stats&theme=radical)
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=prnaavnanand24&show_icons=true&theme=radical)
