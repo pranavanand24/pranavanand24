@@ -7,7 +7,7 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 - 🌱 I’m currently working on Competitive Programming and Data Science
 - 🤝 I’m looking to collaborate on Data science and Artifical Intelligence Research Projects
 
-![Hello Visitor No :](https://visitor-badge.glitch.me/badge?page_id=pranavanand24.visitor-badge)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=pranavanand24.visitor-badge)
 
 ### Connect with Me
 
