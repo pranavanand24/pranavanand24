@@ -8,10 +8,6 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 - 🌱 I’m currently working on Competitive Programming
 - 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects
 
-### Visiter's Count
-
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=pranavanand24.visitor-badge)
-
 ### Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranavanand24/)
@@ -20,3 +16,6 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&theme=cobalt&layout=compact)
 
+### Thank you for Visiting, Good Luck !
+
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=pranavanand24.visitor-badge)
