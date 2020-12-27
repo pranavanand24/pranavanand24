@@ -5,7 +5,7 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 
 - 🔭 I mainly work with Python,Machine Learning and Deep Learning (Primary)
 - 🔭 I also Know R, SQL, Golang, Natural Languages Processing and Computer Vision (Secondary)
-- 🌱 I’m currently working on Competitive Programming
+- 🌱 I’m currently working on Competitive Programming and Algorithms
 - 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects
 
 ### Connect with Me
