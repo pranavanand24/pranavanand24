@@ -17,5 +17,3 @@ I'm a Junior Year student pursuing Bachelor of Engineering in Computer Science a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&theme=cobalt&layout=compact)
 
 ### Thank you for Visiting, Good Luck !
-
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=pranavanand24.visitor-badge)
