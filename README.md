@@ -18,8 +18,6 @@ I'm a Final Year student pursuing Bachelor of Engineering in Computer Science an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&theme=cobalt&layout=compact) 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%231208F3&icon=&icon_color=%239D0B0B&title=Total+Number+of+People+Visiting+This+Github+Profile&edge_flat=true"/></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%231208F3&icon=&icon_color=%239D0B0B&title=Total+Number+of+People+Visiting+This+Github+Profile&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpranavanand24%2Fhit-counter&count_bg=%236DEA0E&title_bg=%232A2B2C&icon=&icon_color=%239D0B0B&title=Total+Number+of+People+Visited&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Thank you for Visiting, Good Luck !
