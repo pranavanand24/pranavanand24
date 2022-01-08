@@ -4,7 +4,7 @@
 I'm a Final Year student pursuing Bachelor of Engineering in Computer Science and Engineering from Thapar Institute of Engineering and Technology, Patiala. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I also like to guide and mentor newbies who are passionate and are willing to put their efforts in this exciting field
 
 - 🔭 I mainly work with Python,Machine Learning and Deep Learning (Primary)
-- 🔭 I also Know R, SQL, Golang, Natural Languages Processing, Reinforcement learning and Computer Vision (Secondary)
+- 🔭 I also Know R, SQL, Golang, Natural Languages Processing, Reinforcement learning, Human-Computer Interaction and Computer Vision (Secondary)
 - 🌱 I’m currently working on combining my set of skills
 - 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects
 
