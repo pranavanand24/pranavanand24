@@ -5,7 +5,7 @@ I'm a Final Year student pursuing Bachelor of Engineering in Computer Science an
 
 - 🔭 I mainly work with Python,Machine Learning and Deep Learning (Primary)
 - 🔭 I also Know R, SQL, Golang, Natural Languages Processing, Reinforcement learning, Human-Computer Interaction and Computer Vision (Secondary)
-- 🌱 I’m currently working on advancing my set of skills (more mathematically) in Ai domain 
+- 🌱 I’m currently working on advancing my set of skills (more mathematically) in AI domain 
 - 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects
 
 ### Connect with Me
