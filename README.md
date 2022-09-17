@@ -5,7 +5,7 @@ I recently completed my undergrad in Computer Science and Engineering from Thapa
 
 - 🔭 I mainly work with Python and its libraries & frameworks ,Machine Learning and Deep Learning.
 - 🔭 I also know Natural Languages Processing, Reinforcement learning, and Computer Vision.
-- 🌱 I’m currently working on reading and understanding Research Papers from top Confrences.
+- 🌱 I’m currently working on reading and understanding Research Papers from various confrences.
 - 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects.
 
 ### Connect with Me
