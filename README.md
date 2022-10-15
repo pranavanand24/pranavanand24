@@ -1,12 +1,12 @@
 
 ### Hello There, I am Pranav 👋
 
-I recently completed my undergrad in Computer Science and Engineering from Thapar Institute of Engineering and Technology, Patiala, India ('22 batch). I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems.
+I am budding software developer and ai researcher , i recently completed my undergrad in Computer Science and Engineering from Thapar Institute of Engineering and Technology, Patiala, India ('22 batch). I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🔭 I mainly work with Python and its libraries & frameworks ,Machine Learning and Deep Learning.
-- 🔭 I also know Natural Languages Processing, Reinforcement learning, and Computer Vision.
-- 🌱 I’m currently working on reading and understanding Research Papers from various confrences.
-- 🤝 I’m looking to collaborate on Artifical Intelligence Research Projects.
+- 🔭 I mainly work with python and its libraries & frameworks ,machine learning, deep learning, computer vision, reinforcement learning, and natural languages processing.
+- 🔭 I also know c#, .net, sql server, r and basics of front end dev.
+- 🌱 I’m currently working on reading and understanding research papers in depth.
+- 🤝 I’m looking to collaborate on artifical intelligence research projects.
 
 ### Connect with Me
 
