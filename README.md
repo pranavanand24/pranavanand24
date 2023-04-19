@@ -11,10 +11,4 @@ I am a budding software developer and aspiring ai researcher, i recently complet
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranavanand24/)
 
-
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavanand24&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand24&theme=cobalt&layout=compact) 
-
-
 ### Thank you for Visiting, Good Luck !
