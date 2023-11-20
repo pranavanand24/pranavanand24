@@ -1,11 +1,10 @@
+Greetings! 👋 I am a dynamic software developer with a fervent passion for delving into the intricate realms of artificial intelligence. Constantly driven by an insatiable curiosity, I eagerly embrace opportunities to absorb and adeptly apply cutting-edge technologies across diverse domains.
 
-### Hello There, I am Pranav 👋
+🚀 My expertise encompasses the utilization of Python and C# alongside their rich array of libraries and frameworks. My forte lies in the intricate fields of machine learning, deep learning, computer vision, reinforcement learning, and natural language processing.
 
-I am a budding software developer and aspiring ai researcher, I recently completed my undergrad in Computer Science and Engineering from Thapar Institute of Engineering and Technology, Patiala, India ('22 batch). I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems.
+📚 Currently, my intellectual pursuits involve immersing myself in the profound world of research papers. I am dedicated to unraveling the complexities within, fostering a deep understanding of the intricacies that drive innovation in the field.
 
-- 🔭 I mainly work with Python, C# and its libraries & frameworks, machine learning, deep learning, computer vision, reinforcement learning, and natural language processing.
-- 🌱 I’m working on reading and understanding research papers.
-- 🤝 I’m looking to collaborate on artificial intelligence research projects.
+🤝 Actively seeking collaborative ventures, I am keen to contribute my skills and knowledge to meaningful artificial intelligence research projects. Let's forge ahead together in the pursuit of groundbreaking advancements!
 
 ### Connect with Me
 
