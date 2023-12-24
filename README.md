@@ -1,10 +1,4 @@
-Greetings! 👋 I am a dynamic software developer with a fervent passion for delving into the intricate realms of artificial intelligence. Constantly driven by an insatiable curiosity, I eagerly embrace opportunities to absorb and adeptly apply cutting-edge technologies across diverse domains.
-
-🚀 My expertise encompasses the utilization of Python and C# alongside their rich array of libraries and frameworks. My forte lies in the intricate fields of machine learning, deep learning, computer vision, reinforcement learning, and natural language processing.
-
-📚 Currently, my intellectual pursuits involve immersing myself in the profound world of research papers. I am dedicated to unraveling the complexities within, fostering a deep understanding of the intricacies that drive innovation in the field.
-
-🤝 Actively seeking collaborative ventures, I am keen to contribute my skills and knowledge to meaningful artificial intelligence research projects. Let's forge ahead together in the pursuit of groundbreaking advancements!
+Greetings! 👋 I am an aspiring product manager with a solid foundation in software development, poised to contribute my expertise to drive successful product outcomes. My background as a software developer provides me with a unique perspective on technology, and my passion for delving into the nuances of artificial intelligence positions me as a valuable asset for steering product strategies in innovative directions. Eager to stay abreast of the ever-evolving tech landscape, I actively pursue opportunities to integrate cutting-edge technologies into products and navigate their seamless application across various domains.
 
 ### Connect with Me
 
